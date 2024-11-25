@@ -8,4 +8,15 @@ p{
 img {
     width: 600px;
     height: 400px;
+
+}
+
+#form {
+    width: 100px;
+    height: 20px;
+}
+
+#button {
+    color: white;
+    background-color: black;
 }
