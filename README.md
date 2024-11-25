@@ -8,3 +8,5 @@ Depois dei um pull request para a alteração da main pelas duas branchs.
 Depois criei a branch "version05" em que alterava o botão para vermelho, puxei um pull request para dar o merge.
 Após isso, desfiz o commit para desfazer a alteração.
 Assim o trabalho está feito, coloquei o repositório público no GitHub Pages para ser hospedado o projeto em um site.
+
+Site: https://lckuu.github.io/trabalho/
